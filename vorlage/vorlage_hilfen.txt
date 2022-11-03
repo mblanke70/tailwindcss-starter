@@ -1,0 +1,15 @@
+Schriftart: Lato 
+https://fonts.google.com/specimen/Lato
+
+Schriftfarbe: #83D3C9, #96DAD1, #645862, #7C8081, #3FB1A3
+Hintergrundfarbe: #F3F6FA, #83d3c9, #645862, #E8EEF4
+
+Button Primary: #83d3c9
+Button Hoover: #96dad1
+
+Icon-Farbe: 
+twitter #70aecd, #7fb7d2
+facebook #7490c3, #829bc9
+google plus: #db6b67, #df7b77
+github: #dcad8b, #e1b89b
+dribble: #da83ae, #df93b8
